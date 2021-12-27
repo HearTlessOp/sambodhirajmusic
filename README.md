@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Arc Music Bot ⭐️</b></h1>
+<h1 align= center><b>⭐️ HEARTLESS MUSIC ⭐️</b></h1>
 
 
   
@@ -12,7 +12,9 @@
 
 </p>
 
+<h3 align= center><b>  GENERATE STRING SESSION </b></h3>
 
+[![REPL.IT](https://img.shields.io/badge/repl.it-generateString-yellowgreen )](https://replit.com/@Jaggi444/HEARTLESS-MUSIC#main.py)
 
 
 
