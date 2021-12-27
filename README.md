@@ -11,3 +11,13 @@
   <a href="https://dashboard.heroku.com/new?template=https://github.com/HearTlessOp/sambodhirajmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
+
+
+
+
+
+
+[![telegram badge](https://img.shields.io/badge/S͟ᴀᴍʙᴏᴅʜɪʀᴀᴊ-30302f?style=for-the-badge&logo=telegram)](https://t.me/ITZ_SAMBODHIRAJ)
+
+
+[![telegram badge](https://img.shields.io/badge/BLACK_MAMBA-30302f?style=for-the-badge&logo=telegram)](https://t.me/AMANJOTDHIMAN)
