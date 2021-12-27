@@ -12,14 +12,15 @@
 
 </p>
 
-<h3 align= center><b>  GENERATE STRING SESSION </b></h3>
+<h3 align= center><b>  
 
 [![REPL.IT](https://img.shields.io/badge/repl.it-generateString-yellowgreen )](https://replit.com/@Jaggi444/HEARTLESS-MUSIC#main.py)
+  </b></h3>
 
 
-
-
+<h4 align= center><b>
 [![telegram badge](https://img.shields.io/badge/S͟ᴀᴍʙᴏᴅʜɪʀᴀᴊ-30302f?style=for-the-badge&logo=telegram)](https://t.me/ITZ_SAMBODHIRAJ)
-
-
+  </b></h4>
+<h5 align= center><b>
 [![telegram badge](https://img.shields.io/badge/BLACK_MAMBA-30302f?style=for-the-badge&logo=telegram)](https://t.me/AMANJOTDHIMAN)
+  </b></h5>
