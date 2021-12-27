@@ -1,18 +1,18 @@
 {
-  "name": "Arc Music Bot",
+  "name": "HEARTLESS OP",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/Kishu07/arc_muiscbot",
+  "repository": "https://github.com/HearTlessOp/sambodhirajmusic",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
   "python3",
   "telegram",
   "bot",
   "Arc",
-  "Arcmusicbot",
+  "sambodhirajmusic",
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/Kishu07/arc_musicbot",
+  "repository": "https://github.com/HeartTlessOp/sambodhirajmusic",
   "stack": "container",
   "env": {
     "API_ID": {
