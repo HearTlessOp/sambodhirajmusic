@@ -30,7 +30,7 @@ HELPABLE = {}
 
 async def initiate_bot():
     with console.status(
-        "[magenta] Booting up The Yukki Music Bot...",
+        "[magenta] Booting up The HEARTLESS MUSIC BOT...",
     ) as status:
         console.print("┌ [red]Clearing MongoDB cache...")
         try:
@@ -81,7 +81,7 @@ async def initiate_bot():
         await asyncio.sleep(2.4)
         await startup_delete_last(_____)
     console.print(
-        "[bold green]Congrats!! Yukki Music Bot has started successfully!\n"
+        "[bold green]Congrats!! HEARTLESS MUSIC BOT has started successfully!\n"
     )
     try:
         await app.send_message(
@@ -111,7 +111,7 @@ async def initiate_bot():
         console.print(f"\n[red]Stopping Bot")
         return
     try:
-        await ASS_CLI_1.join_chat("OfficialYukki")
+        await ASS_CLI_1.join_chat("TEAM HEARTLESS")
     except:
         pass
     try:
@@ -126,7 +126,7 @@ async def initiate_bot():
         console.print(f"\n[red]Stopping Bot")
         return
     try:
-        await ASS_CLI_2.join_chat("OfficialYukki")
+        await ASS_CLI_2.join_chat("TEAM HEARTLESS")
     except:
         pass
     try:
@@ -141,7 +141,7 @@ async def initiate_bot():
         console.print(f"\n[red]Stopping Bot")
         return
     try:
-        await ASS_CLI_3.join_chat("OfficialYukki")
+        await ASS_CLI_3.join_chat("TEAM HEARTLESS")
     except:
         pass
     try:
@@ -156,7 +156,7 @@ async def initiate_bot():
         console.print(f"\n[red]Stopping Bot")
         return
     try:
-        await ASS_CLI_4.join_chat("OfficialYukki")
+        await ASS_CLI_4.join_chat("TEAM HEARTLESS")
     except:
         pass
     try:
@@ -171,7 +171,7 @@ async def initiate_bot():
         console.print(f"\n[red]Stopping Bot")
         return
     try:
-        await ASS_CLI_5.join_chat("OfficialYukki")
+        await ASS_CLI_5.join_chat("TEAM HEARTLESS")
     except:
         pass
     console.print(f"\n┌[red] Bot Started as {BOT_NAME}!")
