@@ -24,5 +24,5 @@
   
   
 
-[![telegram badge](https://img.shields.io/badge/BLACK_MAMBA-30302f?style=for-the-badge&logo=telegram)](https://t.me/AMANJOTDHIMAN)
+[![telegram badge](https://img.shields.io/badge/BLACK_MAMBA-30302f?style=for-the-badge&logo=telegram)](https://t.me/MAMBA_STAR)
 
